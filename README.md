@@ -1,4 +1,4 @@
-Hi, I'm Tyler. I built a yellow eater app that helps families plan fun together. "Ill do it later".
+Hi, I'm Tyler. I built a yellow eater game that helps families plan fun together. "Ill do it later".
 
 <!--
 **TylerSatterberg/TylerSatterberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
