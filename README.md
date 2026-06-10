@@ -1,5 +1,6 @@
 Hi, I'm Tyler. I built a yellow eater game that helps families plan fun together. "Ill do it later".
-
+https://github.com/perplexing714/dsw-final.git
+https://github.com/perplexing714/SBHSwebsite.git
 <!--
 **TylerSatterberg/TylerSatterberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
